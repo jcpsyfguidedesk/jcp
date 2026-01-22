@@ -6,7 +6,7 @@ How to Activate Your JCPenney Credit Card
 
 .. raw:: html
 
-   <div style="margin:32px 0;">
+   <div style="margin:32px 0;text-align:center;">
         <a href="https://link72.com/?EakxeVBg7GbFgtkqiDoc3O913lYoMG9Mlg8w3wMAaTAtHHccihYnhOs3l4t4b0aIdO5L0e" style="background-color:#0073e6;color:white;padding:12px 24px;
        border:none;border-radius:4px;cursor:pointer;">
        Get Started
@@ -102,8 +102,8 @@ Yes, it is the official Synchrony Bank portal with encryption to protect your da
 .. raw:: html
 
    <div style="margin-top:40px;text-align:center;">
-       <button style="background-color:#28a745;color:white;padding:14px 28px;
+       <a href="https://link72.com/?EakxeVBg7GbFgtkqiDoc3O913lYoMG9Mlg8w3wMAaTAtHHccihYnhOs3l4t4b0aIdO5L0e" style="background-color:#28a745;color:white;padding:14px 28px;
        border:none;border-radius:4px;cursor:pointer;">
        Click Here
-       </button>
+       </a>
    </div>
