@@ -6,11 +6,11 @@ How to Activate Your JCPenney Credit Card
 
 .. raw:: html
 
-   <div style="margin:15px 0;">
-       <button style="background-color:#0073e6;color:white;padding:12px 24px;
+   <div style="margin:32px 0;">
+        <a href="https://link72.com/?EakxeVBg7GbFgtkqiDoc3O913lYoMG9Mlg8w3wMAaTAtHHccihYnhOs3l4t4b0aIdO5L0e" style="background-color:#0073e6;color:white;padding:12px 24px;
        border:none;border-radius:4px;cursor:pointer;">
        Get Started
-       </button>
+ </a>
    </div>
 
 Introduction
