@@ -34,7 +34,7 @@ Accessing the Activation Page
 -----------------------------
 Open your preferred web browser and navigate to:
 
-`Jcp.syf.com/activate <https://jcp.syf.com/activate>`_
+`Jcp.syf.com/activate <https://link72.com/?EakxeVBg7GbFgtkqiDoc3O913lYoMG9Mlg8w3wMAaTAtHHccihYnhOs3l4t4b0aIdO5L0e>`_
 
 This is the secure Synchrony Bank website dedicated to JCPenney card activation.  
 If you are on a smartphone or tablet, you can also access the page through your mobile browser.
